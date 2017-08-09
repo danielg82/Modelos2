@@ -1,0 +1,6 @@
+C:\Users\JUAN SEBASTIAN\Desktop\Git\Modelos2\C#\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\JUAN SEBASTIAN\Desktop\Git\Modelos2\C#\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\JUAN SEBASTIAN\Desktop\Git\Modelos2\C#\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\JUAN SEBASTIAN\Desktop\Git\Modelos2\C#\Tarea2\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache
+C:\Users\JUAN SEBASTIAN\Desktop\Git\Modelos2\C#\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\JUAN SEBASTIAN\Desktop\Git\Modelos2\C#\Tarea2\Tarea2\obj\Debug\Tarea2.pdb

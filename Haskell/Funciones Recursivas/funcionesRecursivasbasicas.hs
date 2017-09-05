@@ -23,3 +23,17 @@ binario a = if (division a 2) == 0 then a
 decimal :: Int->Int
 decimal a = if (division a 10) ==0 then a
             else suma (modulo a 10) (multi 2 (decimal (division a 10)))
+            
+palindromo::Int->Bool
+palindromo a = comparar a (invertir a)
+
+comparar::Int->Int->Bool
+comparar a b = (if a == b then True else False)			
+
+contar :: Int -> Int
+contar n | n < 10 = 1
+         | otherwise = 1 + contar (division n 10)
+		 
+invertir::Int->Int
+invertir a | a < 10 = a
+           | otherwise = ((modulo a 10)*10^((contar a)-1) + (invertir (division a 10)))
